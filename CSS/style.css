@@ -1,0 +1,46 @@
+         .mainContainer {
+             width: 1000px;
+             margin: auto;
+             
+             
+         }
+
+         .photoTop {
+             width: 100%;
+             height: 20%;
+         }
+
+         .texteClassement {
+             text-align: center;
+             font-weight: bold;
+             font-size: xx-large;
+         }
+
+         .grid {
+             display: grid;
+             grid-template-columns: 15% 200px auto 150px;
+             border: 1px solid black;
+             width: 100%;
+             height: 60px;
+         }
+
+         .textHautTableau {
+             background-color: rgb(241, 35, 35);
+             color: white;
+             font-weight: bold;
+         }
+
+         .drapeau {
+             width: 70px;
+             height: 50px;
+             align-self: center;
+             background-size: cover;
+             background-position-x: center;
+             background-position-y: top;
+             
+             
+         }
+
+         .nomÉquipeRésultat {
+             align-self: center;
+         }
